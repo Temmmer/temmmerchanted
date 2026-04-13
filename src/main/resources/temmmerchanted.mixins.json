@@ -1,0 +1,28 @@
+{
+	"required": true,
+	"package": "com.temmmer.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"AnvilMenuMixin",
+		"ItemCombinerMenuAccessor",
+		"PlayerMixin",
+		"MaceItemMixin",
+		"FlatXpCurveMixin",
+		"SpawnerBlockMixin",
+		"PlayerDeathXpMixin",
+		"MultiChargeCrossbowMixin",
+		"CrossbowProjectileTagMixin",
+		"AbstractArrowMixin",
+		"AbstractArrowMultishotBypassMixin",
+		"EntityAccessor",
+		"EnchantingTableBlockMixin",
+		"FortuneMixin",
+		"BundleItemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

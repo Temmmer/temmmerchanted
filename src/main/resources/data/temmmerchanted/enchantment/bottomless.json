@@ -1,0 +1,38 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.temmmerchanted.bottomless"
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 20,
+    "per_level_above_first": 0
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": [
+    "minecraft:bundle",
+    "minecraft:white_bundle",
+    "minecraft:orange_bundle",
+    "minecraft:magenta_bundle",
+    "minecraft:light_blue_bundle",
+    "minecraft:yellow_bundle",
+    "minecraft:lime_bundle",
+    "minecraft:pink_bundle",
+    "minecraft:gray_bundle",
+    "minecraft:light_gray_bundle",
+    "minecraft:cyan_bundle",
+    "minecraft:purple_bundle",
+    "minecraft:blue_bundle",
+    "minecraft:brown_bundle",
+    "minecraft:green_bundle",
+    "minecraft:red_bundle",
+    "minecraft:black_bundle"
+  ],
+  "weight": 2
+}
